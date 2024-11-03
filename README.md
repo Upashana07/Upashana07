@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Upashana07
 - 👀 I’m interested in coding, any outdoor activities, and singing. 
-- 🌱 I’m currently majoring in Computer Scinence at UMASS Amherst.
+- 🌱 I’m currently majoring in Computer Science at UMASS Amherst.
 - 📫 You can reach me at kumarupa07@gmail.com
 
 <!---
